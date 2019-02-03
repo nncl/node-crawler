@@ -1,5 +1,5 @@
 {
-  "name": "crawler",
+  "name": "node-crawler",
   "version": "1.0.0",
   "description": "Testing some crawler libs.",
   "main": "index.js",
@@ -9,5 +9,8 @@
     "dev": "nodemon index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "crawler": "^1.2.0"
+  }
 }
